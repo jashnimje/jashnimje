@@ -1,4 +1,4 @@
-<img src="icon1.png" align="right" alt="Coder.png"/>
+<img src="icon1.png" align="right" alt="Coder.png" width="200"/>
 <h1 align="center">Jash Nimje</h1>
 
 ### Myself
