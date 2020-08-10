@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" align="right" alt="Coder.png" width="400"/>
+<img src="/image1.png" align="right" alt="Coder.png" width="400"/>
 <h1 align="center">Jash Nimje</h1>
 
 ### Myself
