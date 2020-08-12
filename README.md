@@ -40,6 +40,11 @@
 
 *****
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashnimje&theme=dark&layout=compact&hide=html" alt="jashnimje" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jashnimje&theme=dark&count_private=true&show_icons=true&hide=prs,issues" alt="jashnimje" /></p>
+
+*****
+
 ### Contact me on.
 [![LinkedIn][1.1]][1] [![Twitter][1.2]][2] [![GitHub][1.3]][3] [![Wordpress][1.4]][4]
 
