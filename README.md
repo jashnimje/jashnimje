@@ -41,7 +41,7 @@
 *****
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashnimje&theme=dark&layout=compact&hide=html" alt="jashnimje" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jashnimje&theme=dark&count_private=true&show_icons=true&hide=prs,issues" alt="jashnimje" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jashnimje&theme=dark&count_private=true&show_icons=true&hide=prs,issues" alt="jashnimje" /></p>
 
 *****
 
