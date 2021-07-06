@@ -1,58 +1,60 @@
+
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" align="right" alt="Coder.png" width="400"/>
 <h1 align="center">Jash Nimje</h1>
 
 ### Myself
 
-- 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning Advanced JAVA Programming.
+- 🔭 I’m currently working on improving my Skills
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Java and Python projects.
-- 🤔 I’m looking for help with Advanced JAVA.
+- 🤔 I’m looking for help with App Development.
 - 💬 Ask me about Python, Java, C, C++.
-- ⚡ Fun fact: Always stay curious because ...
-**Curiosity makes you Smarter.**
+- ⚡ Thought: **Beginnings and ends are easier to remember than middles**
+
+>  **Curiosity makes you Smarter.**
 
 *****
 
-### Technology Stacks:
+### My Technology Stacks:
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></p>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="CPP" />
+<img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" />
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" />
+<img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" />
+<img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" />
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="Javascript" />
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+<img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" />
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" />
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" />
+<img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
+
 
 *****
 
+### Statistics:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashnimje&theme=dark&layout=compact&hide=html" alt="jashnimje" /></p>
+
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jashnimje&theme=dark&count_private=true&show_icons=true&hide=prs,issues" alt="jashnimje" /></p>
 
 *****
 
 ### Contact me on.
-[![LinkedIn][1.1]][1] [![Twitter][1.2]][2] [![GitHub][1.3]][3] [![Wordpress][1.4]][4]
+[![Gmail][1.0]][0][![LinkedIn][1.1]][1] [![Twitter][1.2]][2] [![GitHub][1.3]][3] [![Wordpress][1.4]][4]
 
+[1.0]: https://img.icons8.com/color/48/000000/gmail--v2.png
 [1.1]: https://img.icons8.com/color/48/000000/linkedin.png
 [1.2]: https://img.icons8.com/color/48/000000/twitter.png
 [1.3]: https://img.icons8.com/material-sharp/48/000000/github.png
 [1.4]: https://img.icons8.com/color/48/000000/wordpress.png
 
+[0]: mailto:jashnimje@gmail.com
 [1]: https://www.linkedin.com/in/jashnimje
 [2]: https://twitter.com/jashnimje
 [3]: https://github.com/jashnimje
